@@ -15,7 +15,7 @@ def download():
         urllib.request.urlretrieve(url, "main.zip")
         fileSize = os.path.getsize("main.zip")
         print(f"Size: {normalisedSize(fileSize)}")
-        shutil.unpack_archive("main.zip", "temp\\", "zip")
+        shutil.unpack_archive("main.zip", "temp", "zip")
         print("Cleaning up...")
         os.remove("main.zip")
 
@@ -26,9 +26,9 @@ def download():
     print("===========================================================================")
 
     downloadRepoFile(filepath)
-    shutil.rmtree("tocheck\\", True)
-    shutil.copytree("temp\\savedatasync-main\\saves", "tocheck", dirs_exist_ok=True)
-    shutil.rmtree("temp\\", True)
+    shutil.rmtree("tocheck", True)
+    shutil.copytree(os.path.join("temp","savedatasync-main","saves"), "tocheck", dirs_exist_ok=True)
+    shutil.rmtree("temp", True)
     print("Done!")
 
     print("===========================================================================")
@@ -39,14 +39,14 @@ def download():
         ### unzip zip files
         for file in filenames:
             if (file.lower().endswith(".zip")):
-                shutil.unpack_archive("tocheck\\"+file, "tocheck\\"+file.removesuffix(".zip"), "zip")
+                shutil.unpack_archive(os.path.join("tocheck", file), os.path.join("tocheck", file.removesuffix(".zip")), "zip")
 
     updatedApps = []
 
     for foldername, subfolders, filenames in os.walk("tocheck"):
         for folder in subfolders:
             print("Checking save data |", folder)
-            f = open("tocheck\\"+folder+".txt", "r")
+            f = open(os.path.join("tocheck", folder+".txt"), "r")
             lines = f.readlines()
             downloadeddate = lines[0].strip()
             downloadedhash = lines[1].strip()
@@ -57,7 +57,7 @@ def download():
             currentdate = ""
             currenthash = ""
             try:
-                with open("saves\\"+folder+".txt", "r") as f:
+                with open(os.path.join("saves", folder+".txt"), "r") as f:
                     lines = f.readlines()
                     currentdate = lines[0].strip()
                     currenthash = lines[1].strip()
@@ -72,8 +72,8 @@ def download():
             else:
                 if (downloadeddate > currentdate):
                     print("Downloaded files are newer... overriding files")
-                    shutil.copytree("tocheck\\"+folder, "saves\\"+folder, dirs_exist_ok=True)
-                    with open("saves\\"+folder+'.txt', 'w') as f:
+                    shutil.copytree(os.path.join("tocheck", folder), os.path.join("saves", folder), dirs_exist_ok=True)
+                    with open(os.path.join("saves", folder+".txt"), 'w') as f:
                         f.write(downloadeddate + "\n")
                         f.write(downloadedhash)
 
@@ -82,7 +82,7 @@ def download():
                             for path in save.filePaths:
                                 if os.path.isdir(path):
                                     updatedApps.append(save.appName)
-                                    shutil.copytree("saves\\"+folder, path, dirs_exist_ok=True)
+                                    shutil.copytree(os.path.join("saves", folder), path, dirs_exist_ok=True)
                                     break
                             print("File paths don't exist- nothing has been overwritten")
                 else:
