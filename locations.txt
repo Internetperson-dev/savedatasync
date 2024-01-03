@@ -1,11 +1,8 @@
-vita3k P4G
-C:\Users\User\AppData\Roaming\Vita3K\Vita3K\ux0\user\00\savedata\PCSB00245
+yuzu Persona 5 Royal
+/home/ram/.var/app/org.yuzu_emu.yuzu/data/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/01005CA01580E000
 
-yuzu P4G
-C:\Users\User\AppData\Roaming\yuzu\nand\user\save\0000000000000000\DE4F30DA1CCDE6D221A956AA3C647B3B\010062B01525C000
+yuzu Persona 4 Golden
+/home/ram/.var/app/org.yuzu_emu.yuzu/data/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010062B01525C000
 
-PS2 Memory Cards (Persona 3 FES)
-C:\Games\EMU\pcsx2\memcards
-
-RPCS3 Sonic Unleashed
-C:\Games\EMU\rpcs3\dev_hdd0\home\00000001\savedata\BLUS30244
+yuzu Super Smash Bros Ultimate
+/home/ram/.var/app/org.yuzu_emu.yuzu/data/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/01006A800016E000
