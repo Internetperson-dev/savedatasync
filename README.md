@@ -28,10 +28,6 @@ urllib.request.urlretrieve("https://github.com/zydezu/savedatasync/archive/main.
 
 # How its done
 
-> [!CAUTION]
-> what kind of fuckass uses github . com dot io as a cloud storage provider<br/>
-> surely this wont bite me in the ass in the forecoming future
-
 ## Overview
 
 > [!IMPORTANT]
