@@ -1,7 +1,7 @@
 import subprocess
 from readFileLocations import *
 
-def upload(overrideAltered, overrideChangedMessage, output=True):
+def upload(overrideAltered=False, overrideChangedMessage=False, output=True):
     if output: print("===========================================================================")
     if output: print("Checking each application's save data for changes")
     if output: print("===========================================================================")
@@ -14,9 +14,9 @@ def upload(overrideAltered, overrideChangedMessage, output=True):
         changed = overrideChangedMessage
 
     changedString = "update repo"
-    if (isaltered):
+    if isaltered:
         if len(changed) > 1:
-            changedString = f"{", ".join(changed[:-1])}, and {changed[-1]}"
+            changedString = f"{', '.join(changed[:-1])}, and {changed[-1]}"
             print(changedString,"have been updated")
         else:
             changedString = changed[0]
@@ -37,6 +37,9 @@ def upload(overrideAltered, overrideChangedMessage, output=True):
     print("===========================================================================")
 
 if __name__ == "__main__":
-    upload()
+    # Provide appropriate values for overrideAltered and overrideChangedMessage
+    overrideAltered = False  # Provide the appropriate value
+    overrideChangedMessage = False  # Provide the appropriate value
+    upload(overrideAltered, overrideChangedMessage)
     print("Press ENTER to close")
     input()
