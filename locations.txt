@@ -6,3 +6,9 @@ yuzu Persona 4 Golden
 
 yuzu Super Smash Bros Ultimate
 /home/ram/.var/app/org.yuzu_emu.yuzu/data/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/01006A800016E000
+
+yuzu Mario Kart 8 Deluxe
+/home/ram/.var/app/org.yuzu_emu.yuzu/data/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100152000022000
+
+yuzu Super Mario Odyssey
+/home/ram/.var/app/org.yuzu_emu.yuzu/data/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100000000010000
