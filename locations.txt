@@ -12,3 +12,9 @@ yuzu Mario Kart 8 Deluxe
 
 yuzu Super Mario Odyssey
 /home/ram/.var/app/org.yuzu_emu.yuzu/data/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100000000010000
+
+rpcs3 
+/home/ram/.var/app/net.rpcs3.RPCS3/config/rpcs3/dev_hdd0/home/00000001/savedata
+
+pcsx2
+/home/ram/.var/app/net.pcsx2.PCSX2/config/PCSX2/memcards
