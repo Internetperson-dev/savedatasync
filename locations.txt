@@ -1,17 +1,5 @@
-yuzu Persona 5 Royal
-/home/ram/.var/app/org.yuzu_emu.yuzu/data/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/01005CA01580E000
-
-yuzu Persona 4 Golden
-/home/ram/.var/app/org.yuzu_emu.yuzu/data/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010062B01525C000
-
-yuzu Super Smash Bros Ultimate
-/home/ram/.var/app/org.yuzu_emu.yuzu/data/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/01006A800016E000
-
-yuzu Mario Kart 8 Deluxe
-/home/ram/.var/app/org.yuzu_emu.yuzu/data/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100152000022000
-
-yuzu Super Mario Odyssey
-/home/ram/.var/app/org.yuzu_emu.yuzu/data/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100000000010000
+switch - ssbu
+/home/ram/.var/app/org.ryujinx.Ryujinx/config/Ryujinx/bis/user/save/0000000000000001/0
 
 rpcs3 
 /home/ram/.var/app/net.rpcs3.RPCS3/config/rpcs3/dev_hdd0/home/00000001/savedata
