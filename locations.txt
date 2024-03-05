@@ -1,6 +1,9 @@
 switch - ssbu
 /home/ram/.var/app/org.ryujinx.Ryujinx/config/Ryujinx/bis/user/save/0000000000000001/0
 
+switch - 3dworld
+/home/ram/.var/app/org.ryujinx.Ryujinx/config/Ryujinx/bis/user/save/0000000000000003/0
+
 rpcs3 
 /home/ram/.var/app/net.rpcs3.RPCS3/config/rpcs3/dev_hdd0/home/00000001/savedata
 
