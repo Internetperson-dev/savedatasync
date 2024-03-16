@@ -12,3 +12,6 @@ pcsx2
 
 ppsspp
 /home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA
+
+minecraft better than adventure
+/home/ram/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/1.7.7.0_02/.minecraft/saves
