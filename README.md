@@ -1,5 +1,5 @@
 # savedatasync
-Sync various save data across emulators because I'm lazy.
+Sync various save data across emulators because hard drive died in 2023 and I should back up stuff.
 
 
 ![2023-10-01_07-07-11_582_Vita3K](https://github.com/zydezu/savedatasync/assets/50119098/008ae336-b24b-4d6c-bf30-329a38cb1932)
