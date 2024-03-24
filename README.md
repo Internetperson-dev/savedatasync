@@ -104,7 +104,7 @@ On other devices, run `download saves from git.py`. You may see an output like t
 ```powershell
 ===========================================================================
 Downloading files...
-156.23MB
+200GB
 Cleaning up...
 Done!
 ===========================================================================
