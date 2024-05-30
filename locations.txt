@@ -1,35 +1,31 @@
 switch - ssbu
-~/.local/share/suyu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/01006A800016E000
+/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/01006A800016E000
 
 switch - 3dworld
-~/.local/share/suyu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010028600EBDA000
+/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010028600EBDA000
 
 switch - mariowonder
-~/.local/share/suyu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010015100B514000
+/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010015100B514000
 
 switch - persona4
-~/.local/share/suyu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010062B01525C000
+/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010062B01525C000
 
 switch - Persona 5 Royal
-~/.local/share/suyu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/01005CA01580E000
-
-postalbrain
-~/.local/share/suyu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010089201B7EC000
+/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/01005CA01580E000
 
 totk
-~/.local/share/suyu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100F2C0115B6000
+/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100F2C0115B6000
 
 welove
-~/.local/share/suyu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100E71018D1A000
+/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100E71018D1A000
 
 rpcs3 
-~/.var/app/net.rpcs3.RPCS3/config/rpcs3/dev_hdd0/home/00000001/savedata
+/home/ram.var/app/net.rpcs3.RPCS3/config/rpcs3/dev_hdd0/home/00000001/savedata
 
 pcsx2
-~/.var/app/net.pcsx2.PCSX2/config/PCSX2/memcards
+/home/ram.var/app/net.pcsx2.PCSX2/config/PCSX2/memcards
 
 ppsspp
-~/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA
-
+/home/ram/var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA
 minecraft better than adventure
-~/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/1.7.7.0_02/.minecraft/saves
+/home/ram/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/1.7.7.0_02/.minecraft/saves
