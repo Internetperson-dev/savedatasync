@@ -29,7 +29,7 @@ Persona: Revlations, Persona 2 - PSP
 /home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA
 
 Minecraft - Better than Adventure!
-/home/ram/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/1.7.7.0_02/.minecraft/saves
+/home/ram/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/BTA_MANAGED_INSTANCE/.minecraft/saves
 
 Persona 4: Dancing All Night - Vita
 /home/ram/Downloads/games/vita3k/ubuntu-latest/vita3kpath/ux0/user/00/savedata/PCSE00764
