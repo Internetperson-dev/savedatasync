@@ -46,7 +46,9 @@ Yakuza 0
 Persona 5 Strikers
 /home/ram/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/1382330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/Steam/P5S
 
+Persona 5 Strikers - 2 
+/home/ram/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/1382330/pfx/drive_c/Program\ Files\ (x86)/Steam/userdata/1232111260/1382330
+
 Portal 2 Mod
 /home/ram/.steam/steam/steamapps/common/Portal Revolution/revolution/SAVE
 
-Yume Nikki
