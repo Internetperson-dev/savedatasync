@@ -53,3 +53,6 @@ Persona 5 Strikers
 Portal 2 Mod
 /home/ram/.steam/steam/steamapps/common/Portal Revolution/revolution/SAVE
 
+The Big Con
+/home/ram/Games/Heroic/Prefixes/default/The\ Big\ Con/drive_c/users/ram/AppData/LocalLow/Mighty Yell Studios/The Big Con/SaveGameData
+
