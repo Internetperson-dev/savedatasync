@@ -28,6 +28,9 @@ PCSX2 - PS2
 Persona: Revlations, Persona 2 - PSP
 /home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA
 
+Minecraft 
+/home/ram/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/1.21\ Optimised\ v1.0.0/.minecraft/saves
+
 Minecraft - Better than Adventure!
 /home/ram/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/BTA_MANAGED_INSTANCE/.minecraft/saves
 
