@@ -1,6 +1,8 @@
 # savedatasync
 Sync various save data across emulators because hard drive died in 2023 and I should back up stuff.
 
+![Shin Megami Tensei - Persona 3 FES Atlus "What's this "net" thing they've got nowadays? They probably don't even know how to talk to real people... - Old Man"](https://github.com/user-attachments/assets/e35615bf-77dd-4acd-92cb-9fd3567156f4)
+
 
 ![2023-10-01_07-07-11_582_Vita3K](https://github.com/zydezu/savedatasync/assets/50119098/008ae336-b24b-4d6c-bf30-329a38cb1932)
 
