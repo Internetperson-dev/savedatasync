@@ -6,18 +6,6 @@ Sync various save data across emulators because hard drive died in 2023 and I sh
 
 ![2023-10-01_07-07-11_582_Vita3K](https://github.com/zydezu/savedatasync/assets/50119098/008ae336-b24b-4d6c-bf30-329a38cb1932)
 
-# Recent changes
-
-## One file for all of this (2024-01-03)
-
-Running [sync.py](https://github.com/zydezu/savedatasync/blob/main/sync.py) should perform uploading and downloading automatically. Thx! Additionally, actual file modified times are now recorded when syncing/uploading files, instead of the time the syncing/uploading was ran.
-
-## Improved formatting of command output (2023-12-22)
-
-Command messages have been improved - [how pedantic](https://github.com/zydezu/savedatasync/compare/5125f59d0e0013b3e743f8e6535ba0d1e351e952..3ff9931db597a6143f17b24175cd32afa67ff73a), and additionally automated git commit messages are now more descriptive of what has been changed.
-
-## Downloading speeds and zip files (2023-12-20)
-
 > [!NOTE]
 > Fixed this issue `Downloading the save data may take long as it has to download the whole repo and every saved save... ack`
 
