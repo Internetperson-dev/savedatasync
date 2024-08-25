@@ -10,9 +10,6 @@ Super Mario Bros. Wonder - Switch
 Persona 4 Golden - Switch
 /home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010062B01525C000
 
-Persona 5 Royal - Switch
-/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/01005CA01580E000
-
 Legend of Zelda: Tears of the Kingdom - Switch
 /home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100F2C0115B6000
 
@@ -40,21 +37,18 @@ Persona 4: Dancing All Night - Vita
 Duckstation - PS1
 /home/ram/.var/app/org.duckstation.DuckStation/config/duckstation/memcards
 
-GTA SA 
-/home/ram/Downloads/games/pc/GTA San Andreas/userfiles
-
 Yakuza 0 
 /home/ram/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/638970/pfx/drive_c/users/steamuser/AppData/Local/Sega/Yakuza0
 
 Persona 3 Reload
 /home/ram/.steam/steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/P3R/Steam/76561199192376988
 
+Persona 5 Royal
+/home/ram/.steam/steam/steamapps/compatdata/1687950/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/P5R/Steam/76561199192376988/savedata
+
 Persona 5 Strikers
 /home/ram/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/1382330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/Steam/P5S
 /home/ram/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/1382330/pfx/drive_c/Program\ Files\ (x86)/Steam/userdata/1232111260/1382330
-
-Portal 2 Mod
-/home/ram/.steam/steam/steamapps/common/Portal Revolution/revolution/SAVE
 
 The Big Con
 /home/ram/Games/Heroic/Prefixes/default/The\ Big\ Con/drive_c/users/ram/AppData/LocalLow/Mighty Yell Studios/The Big Con/SaveGameData
