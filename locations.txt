@@ -59,9 +59,6 @@ Persona 5 Strikers
 The Big Con
 /home/ram/Games/Heroic/Prefixes/default/The\ Big\ Con/drive_c/users/ram/AppData/LocalLow/Mighty Yell Studios/The Big Con/SaveGameData
 
-Elden Ring
-/run/media/ram/4efdf426-14e1-470d-a837-a07a6a737e3c/SteamLibrary/steamapps/compatdata/1245620/pfx/drive_c/users/steamuser/AppData/Roaming/EldenRing
-
 RDR2
 /home/ram/.steam/steam/steamapps/compatdata/1174180/pfx/drive_c/users/steamuser/Documents/Rockstar Games/Red Dead Redemption 2/Profiles/18AFE80C
 
