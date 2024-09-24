@@ -20,10 +20,7 @@ RPCS3 - PS3
 /home/ram.var/app/net.rpcs3.RPCS3/config/rpcs3/dev_hdd0/home/00000001/savedata
 
 PCSX2 - PS2
-/home/ram.var/app/net.pcsx2.PCSX2/config/PCSX2/memcards
-
-Persona: Revlations, Persona 2 - PSP
-/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA
+/home/ram/.var/app/net.pcsx2.PCSX2/config/PCSX2/memcards
 
 Minecraft 
 /home/ram/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/1.21\ Optimised\ v1.0.0/.minecraft/saves
