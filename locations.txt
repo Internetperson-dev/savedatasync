@@ -1,60 +1,60 @@
 Super Smash Bros. Ultimate - Switch - If the bottom of file is **not** empty you will get errors. Thank my symlink daily backup system for getting an older version of this file
-/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/01006A800016E000
+/home/rameez/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/01006A800016E000
 
 Super Mario 3D World + Bowser's Fury - Switch
-/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010028600EBDA000
+/home/rameez/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010028600EBDA000
 
 Super Mario Bros. Wonder - Switch
-/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010015100B514000
+/home/rameez/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010015100B514000
 
 Persona 4 Golden - Switch
-/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010062B01525C000
+/home/rameez/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010062B01525C000
 
 Legend of Zelda: Tears of the Kingdom - Switch
-/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100F2C0115B6000
+/home/rameez/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100F2C0115B6000
 
 We Love Katamari REROLL+ Royal Reverie - Switch
-/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100E71018D1A000
+/home/rameez/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100E71018D1A000
 
 RPCS3 - PS3
-/home/ram.var/app/net.rpcs3.RPCS3/config/rpcs3/dev_hdd0/home/00000001/savedata
+/home/rameez/.var/app/net.rpcs3.RPCS3/config/rpcs3/dev_hdd0/home/00000001/savedata
 
 PCSX2 - PS2
-/home/ram/.var/app/net.pcsx2.PCSX2/config/PCSX2/memcards
+/home/rameez/.var/app/net.pcsx2.PCSX2/config/PCSX2/memcards
 
 Minecraft 
-/home/ram/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/1.21\ Optimised\ v1.0.0/.minecraft/saves
+/home/rameez/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/1.21\ Optimised\ v1.0.0/.minecraft/saves
 
 Minecraft - Better than Adventure!
-/home/ram/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/BTA_MANAGED_INSTANCE/.minecraft/saves
+/home/rameez/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/BTA_MANAGED_INSTANCE/.minecraft/saves
 
 Persona 4: Dancing All Night - Vita
-/home/ram/Downloads/games/vita3k/ubuntu-latest/vita3kpath/ux0/user/00/savedata/PCSE00764
+/home/rameez/Downloads/games/vita3k/ubuntu-latest/vita3kpath/ux0/user/00/savedata/PCSE00764
 
 Duckstation - PS1
-/home/ram/.var/app/org.duckstation.DuckStation/config/duckstation/memcards
+/home/rameez/.var/app/org.duckstation.DuckStation/config/duckstation/memcards
 
 DNF DUEL
-/home/ram/Games/Heroic/Prefixes/default/DNF Duel/pfx/drive_c/users/steamuser/AppData/Local/DNFDUEL/Saved/
+/home/rameez/Games/Heroic/Prefixes/default/DNF Duel/pfx/drive_c/users/steamuser/AppData/Local/DNFDUEL/Saved/
 
 Cave Story Plus
-/home/ram/Games/Heroic/CaveStoryPlus/Profile.dat
+/home/rameez/Games/Heroic/CaveStoryPlus/Profile.dat
 
 Persona 3 Reload
-/home/ram/.steam/steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/P3R/Steam/76561199192376988
+/home/rameez/.steam/steam/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/P3R/Steam/76561199192376988
 
 Persona 5 Royal
-/home/ram/.steam/steam/steamapps/compatdata/1687950/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/P5R/Steam/76561199192376988/savedata
+/home/rameez/.steam/steam/steamapps/compatdata/1687950/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/P5R/Steam/76561199192376988/savedata
 
 Persona 5 Strikers
-/home/ram/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/1382330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/Steam/P5S
-/home/ram/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/1382330/pfx/drive_c/Program\ Files\ (x86)/Steam/userdata/1232111260/1382330
+/home/rameez/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/1382330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/Steam/P5S
+/home/rameez/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/1382330/pfx/drive_c/Program\ Files\ (x86)/Steam/userdata/1232111260/1382330
 
 The Big Con
-/home/ram/Games/Heroic/Prefixes/default/The\ Big\ Con/drive_c/users/ram/AppData/LocalLow/Mighty Yell Studios/The Big Con/SaveGameData
+/home/rameez/Games/Heroic/Prefixes/default/The\ Big\ Con/drive_c/users/ram/AppData/LocalLow/Mighty Yell Studios/The Big Con/SaveGameData
 
 RDR2
-/home/ram/.steam/steam/steamapps/compatdata/1174180/pfx/drive_c/users/steamuser/Documents/Rockstar Games/Red Dead Redemption 2/Profiles/18AFE80C
+/home/rameez/.steam/steam/steamapps/compatdata/1174180/pfx/drive_c/users/steamuser/Documents/Rockstar Games/Red Dead Redemption 2/Profiles/18AFE80C
 
 Sonic Unleashed
-/home/rameez/.config/UnleashedRecomp
+/home/rameezeez/.config/UnleashedRecomp
