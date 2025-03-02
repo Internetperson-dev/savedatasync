@@ -1,4 +1,4 @@
-Super Smash Bros. Ultimate - Switch
+Super Smash Bros. Ultimate - Switch - If the bottom of file is **not** empty you will get errors. Thank my symlink daily backup system for getting an older version of this file
 /home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/01006A800016E000
 
 Super Mario 3D World + Bowser's Fury - Switch
@@ -56,3 +56,5 @@ The Big Con
 RDR2
 /home/ram/.steam/steam/steamapps/compatdata/1174180/pfx/drive_c/users/steamuser/Documents/Rockstar Games/Red Dead Redemption 2/Profiles/18AFE80C
 
+Sonic Unleashed
+/home/rameez/.config/UnleashedRecomp
