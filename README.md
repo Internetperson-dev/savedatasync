@@ -1,24 +1,9 @@
 # savedatasync
 Sync various save data across emulators because hard drive died in 2023 and I should back up stuff.
 
-![Shin Megami Tensei - Persona 3 FES Atlus "What's this "net" thing they've got nowadays? They probably don't even know how to talk to real people... - Old Man"](https://github.com/user-attachments/assets/e35615bf-77dd-4acd-92cb-9fd3567156f4)
-
-
 ![2023-10-01_07-07-11_582_Vita3K](https://github.com/zydezu/savedatasync/assets/50119098/008ae336-b24b-4d6c-bf30-329a38cb1932)
 
-> [!NOTE]
-> Fixed this issue `Downloading the save data may take long as it has to download the whole repo and every saved save... ack`
 
-Save folders are now compressed in zipped files, saving space, and also files are now downloaded without the large `.git` folder.
-```python
-urllib.request.urlretrieve("https://github.com/zydezu/savedatasync/archive/main.zip", "main.zip")
-```
-
-<hr>
-
-# How its done
-
-## Overview
 
 > [!IMPORTANT]
 > Use `sync.py` instead<br>~~Running `upload saves to git.py` should always been done right after finishing playing a game/changing files, and downloading should be done before opening the game `download saves from git.py` (though theoretically downloading can be done any time after uploading)~~
@@ -126,9 +111,7 @@ All the save data from the git repository are downloaded and saved in `temp\`, s
 
 # Issues
 
-![munch](https://github.com/zydezu/savedatasync/assets/50119098/cfe623fe-58ef-4381-910c-669eaeb26475)
-
 - This isn't automatic
-- You could delete all your saves in the game, and then update the repo, and cry (backups still exist!)
+- You could delete all your saves in the game, and then update the repo, and cry (That's why I made a backup solution)
 
 ![shinigsmile](https://github.com/zydezu/savedatasync/assets/50119098/2d9e21ea-6b68-485c-8cde-18c9efd360ad)
