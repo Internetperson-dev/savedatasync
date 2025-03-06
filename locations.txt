@@ -57,4 +57,6 @@ RDR2
 /home/rameez/.steam/steam/steamapps/compatdata/1174180/pfx/drive_c/users/steamuser/Documents/Rockstar Games/Red Dead Redemption 2/Profiles/18AFE80C
 
 Sonic Unleashed
-/home/rameezeez/.config/UnleashedRecomp
+/home/rameez/.config/UnleashedRecomp
+
+
