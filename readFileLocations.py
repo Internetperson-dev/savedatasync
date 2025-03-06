@@ -33,24 +33,26 @@ def readLocationsFile():
     lines = f.readlines()
     f.close()
 
+    # Remove trailing blank lines
+    while len(lines) > 0 and lines[-1].strip() == "":
+        lines.pop()
+
     saveLocations = []
     currentSaveLocation = None
     blank = True
+
     for line in lines:
         linestripped = line.strip()
-        if (blank):
-            #print("ADDED APP NAME : ",linestripped)
+        if blank:
             currentSaveLocation = Savelocation(linestripped)
             blank = False
-        elif (len(linestripped) <= 1):
-            #add instance to list
-            blank = True
+        elif len(linestripped) <= 1:
             saveLocations.append(currentSaveLocation)
+            blank = True
         else:
-            #print("FILE PATH : ",linestripped)
             currentSaveLocation.addLocation(linestripped)
 
-    if (not blank):
+    if not blank:
         saveLocations.append(currentSaveLocation)
 
     return saveLocations
