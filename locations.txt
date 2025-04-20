@@ -22,9 +22,6 @@ RPCS3 - PS3
 PCSX2 - PS2
 /home/rameez/.var/app/net.pcsx2.PCSX2/config/PCSX2/memcards
 
-Minecraft 
-/home/rameez/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/1.21\ Optimised\ v1.0.0/.minecraft/saves
-
 Minecraft - Better than Adventure!
 /home/rameez/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/BTA_MANAGED_INSTANCE/.minecraft/saves
 
