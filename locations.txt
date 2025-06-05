@@ -44,8 +44,8 @@ Persona 5 Royal
 /home/rameez/.steam/steam/steamapps/compatdata/1687950/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/P5R/Steam/76561199192376988/savedata
 
 Persona 5 Strikers
-/home/rameez/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/1382330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/Steam/P5S
-/home/rameez/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/1382330/pfx/drive_c/Program\ Files\ (x86)/Steam/userdata/1232111260/1382330
+/home/rameez/.local/share/Steam/steamapps/compatdata/1382330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/Steam/P5S
+/home/rameez/.local/share/Steam/steamapps/compatdata/1382330/pfx/drive_c/Program\ Files\ (x86)/Steam/userdata/1232111260/1382330
 
 The Big Con
 /home/rameez/Games/Heroic/Prefixes/default/The\ Big\ Con/drive_c/users/ram/AppData/LocalLow/Mighty Yell Studios/The Big Con/SaveGameData
@@ -56,4 +56,5 @@ RDR2
 Sonic Unleashed
 /home/rameez/.config/UnleashedRecomp
 
-
+PSP
+.config/PPSSPP
