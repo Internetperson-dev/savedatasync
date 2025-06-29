@@ -57,4 +57,4 @@ Sonic Unleashed
 /home/rameez/.config/UnleashedRecomp
 
 Gentoo
-~/.config
+~/.config/
