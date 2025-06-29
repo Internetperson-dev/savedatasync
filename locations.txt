@@ -56,5 +56,5 @@ RDR2
 Sonic Unleashed
 /home/rameez/.config/UnleashedRecomp
 
-PSP
-.config/PPSSPP
+Gentoo
+~/.config
