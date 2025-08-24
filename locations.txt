@@ -56,5 +56,8 @@ RDR2
 Sonic Unleashed
 /home/ram/.config/UnleashedRecomp
 
-Gentoo
-/home/ram/.config/gentoo
+#Gentoo
+#/home/ram/.config/gentoo
+
+Peggle Deluxe
+/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3480/pfx/drive_c/ProgramData/Steam/Peggle/userdata/
