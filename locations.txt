@@ -4,5 +4,5 @@ Peggle Deluxe
 Peggle Exterme
 /home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3483/pfx/drive_c/ProgramData/Steam/Peggle/userdata/
 
-Switch
-/mnt/nvme/home/ram/Games/Switch/nand/system/save/
+# Switch
+# /mnt/nvme/home/ram/Games/Switch/nand/system/save/
