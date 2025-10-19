@@ -6,3 +6,18 @@ Peggle Extreme
 
 Unreal Tournament
 /home/ram/.utpg/System/
+
+Super Mario Wonder
+/mnt/nvme/home/ram/Games/Switch/_nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010015100B514000/
+
+TOTK
+/mnt/nvme/home/ram/Games/Switch/_nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100F2C0115B6000/
+
+SSBU
+/mnt/nvme/home/ram/Games/Switch/_nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/01006A800016E000/save_data/
+
+Mario Kart 8 Deluxe
+/nt/nvme/home/ram/Games/Switch/_nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100152000022000/
+
+Super Mario 3D Land
+/mnt/nvme/home/ram/Games/Switch/_nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010028600EBDA000/
