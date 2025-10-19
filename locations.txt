@@ -1,0 +1,5 @@
+Peggle Deluxe
+/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3480/pfx/drive_c/ProgramData/Steam/Peggle/userdata/highscores.dat
+
+Peggle Extreme
+/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3483/pfx/drive_c/ProgramData/Steam/PeggleExtreme/userdata/highscores.dat
