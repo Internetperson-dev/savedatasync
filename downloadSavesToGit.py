@@ -3,6 +3,18 @@ import shutil
 import os
 import urllib.request
 
+class bcolors:
+    LINE = '\033[90m'
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKCYAN = '\033[96m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
 def download():
     def normalisedSize(bytes, units=[' bytes', 'KB', 'MB', 'GB', 'TB', 'PB', 'EB']):
         if bytes < 1024 or len(units) == 1:
@@ -11,19 +23,19 @@ def download():
             return normalisedSize(bytes / 1024, units[1:])
 
     def downloadRepoFile(url):
-        print("Downloading files from github...")
+        print(f"{bcolors.WARNING}Downloading files from github...{bcolors.ENDC}")
         urllib.request.urlretrieve(url, "main.zip")
         fileSize = os.path.getsize("main.zip")
-        print(f"Size: {normalisedSize(fileSize)}")
+        print(f"{bcolors.WARNING}Size: {normalisedSize(fileSize)}{bcolors.ENDC}")
         shutil.unpack_archive("main.zip", "temp", "zip")
-        print("Cleaning up...")
+        print(f"{bcolors.WARNING}Cleaning up...{bcolors.ENDC}")
         os.remove("main.zip")
 
     filepath = ""
     with open("gitFilePath.txt", "r") as f:
         filepath = f.readline()
     saveLocations = readLocationsFile()
-    print("===========================================================================")
+    print(f"{bcolors.LINE}==========================================================================={bcolors.ENDC}")
 
     downloadRepoFile(filepath)
     shutil.rmtree("tocheck", True)
@@ -31,9 +43,9 @@ def download():
     shutil.rmtree("temp", True)
     print("Done!")
 
-    print("===========================================================================")
-    print("Checking whether to update local save data")
-    print("===========================================================================")
+    print(f"{bcolors.LINE}==========================================================================={bcolors.ENDC}")
+    print(f"{bcolors.OKBLUE}Checking whether to update local save data{bcolors.ENDC}")
+    print(f"{bcolors.LINE}==========================================================================={bcolors.ENDC}")
 
     for foldername, subfolders, filenames in os.walk("tocheck"):
         ### unzip zip files
@@ -45,7 +57,7 @@ def download():
 
     for foldername, subfolders, filenames in os.walk("tocheck"):
         for folder in subfolders:
-            print("Checking save data |", folder)
+            print(f"Checking save data |{bcolors.OKGREEN}", folder, f"{bcolors.ENDC}")
             f = open(os.path.join("tocheck", folder+".txt"), "r")
             lines = f.readlines()
             downloadeddate = lines[0].strip()
@@ -68,7 +80,7 @@ def download():
                 currenthash = ""
 
             if (downloadedhash == currenthash):
-                print("Files are the same... not overriding files")
+                print(f"{bcolors.WARNING}Files are the same... not overriding files{bcolors.ENDC}")
             else:
                 if (downloadeddate > currentdate):
                     print("Downloaded files are newer... overriding files")
@@ -84,23 +96,26 @@ def download():
                                     updatedApps.append(save.appName)
                                     shutil.copytree(os.path.join("saves", folder), path, dirs_exist_ok=True)
                                     break
-                            print("File paths don't exist- nothing has been overwritten")
+                                if os.path.isfile(path):
+                                    updatedApps.append(save.appName)
+                                    shutil.copy2(os.path.join("saves", folder, os.listdir(os.path.join("saves", folder)[0])), path)
+                                    break
                 else:
-                    print("Downloaded files are older... not overriding files")
-            print("---------------------------------------------------------------------------")
+                    print(f"{bcolors.WARNING}Downloaded files are older... not overriding files{bcolors.ENDC}")
+            print(f"{bcolors.LINE}---------------------------------------------------------------------------{bcolors.ENDC}")
 
         shutil.rmtree("tocheck")
 
     if (updatedApps):
         if len(updatedApps) > 1:
             updatedString = f"{", ".join(updatedApps[:-1])}, and {updatedApps[-1]}"
-            print(updatedString,"now have the newest save data")
+            print(f"{bcolors.OKBLUE}",updatedString,f"now have the newest save data{bcolors.ENDC}")
         else:
             updatedString = updatedApps[0]
-            print(updatedString,"now has the newest save data")
+            print(f"{bcolors.OKBLUE}",updatedString,f"now has the newest save data{bcolors.ENDC}")
     else:
-        print("Nothing has been overwritten")
-    print("===========================================================================")
+        print(f"{bcolors.OKBLUE}Nothing has been overwritten{bcolors.ENDC}")
+    print(f"{bcolors.LINE}==========================================================================={bcolors.ENDC}")
 
 if __name__ == "__main__":
     download()

@@ -1,10 +1,22 @@
 import subprocess
 from readFileLocations import *
 
-def upload(overrideAltered=False, overrideChangedMessage=False, output=True):
-    if output: print("===========================================================================")
-    if output: print("Checking each application's save data for changes")
-    if output: print("===========================================================================")
+class bcolors:
+    LINE = '\033[90m'
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKCYAN = '\033[96m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
+def upload(overrideAltered, overrideChangedMessage, output=True):
+    if output: print(f"{bcolors.LINE}==========================================================================={bcolors.ENDC}")
+    if output: print(f"{bcolors.OKBLUE}Checking each application's save data for changes")
+    if output: print(f"{bcolors.LINE}==========================================================================={bcolors.ENDC}")
     
     saveLocations = readLocationsFile()
     isaltered, changed = saveData(saveLocations, output)
@@ -13,33 +25,31 @@ def upload(overrideAltered=False, overrideChangedMessage=False, output=True):
     if overrideChangedMessage:
         changed = overrideChangedMessage
 
-    changedString = "update repo"
-    if isaltered:
+    changedString = "update save files"
+    if (isaltered):
         if len(changed) > 1:
-            changedString = f"{', '.join(changed[:-1])}, and {changed[-1]}"
-            print(changedString,"have been updated")
+            changedString = f"{", ".join(changed[:-1])}, and {changed[-1]}"
+            print(f"{bcolors.OKBLUE}" +changedString + f" have been updated{bcolors.ENDC}")
         else:
             changedString = changed[0]
-            print(changedString,"has been updated")
-        changedString = f"updated savefiles: {changedString}"
+            print(f"{bcolors.OKBLUE}" + changedString + f" has been updated{bcolors.ENDC}")
+        changedString = f"Updated save files: {changedString}"
     else:
-        print("No save data has changed!")
+        print(f"{bcolors.OKBLUE}No save data has changed!{bcolors.ENDC}")
 
-    print("===========================================================================")
+    print(f"{bcolors.LINE}==========================================================================={bcolors.ENDC}")
     print("Checking git repo status...")
-    print("===========================================================================")
+    print(f"{bcolors.LINE}==========================================================================={bcolors.ENDC}")
 
-    subprocess.call(["git", "pull", "--allow-unrelated-histories"])
-    subprocess.call(["git", "add", "."])
-    subprocess.call(["git", "commit", "-m", changedString])
-    subprocess.call(["git", "push"])
+    for i in range(0,3):
+        subprocess.call(["git", "pull"])
+        subprocess.call(["git", "add", "."])
+        subprocess.call(["git", "commit", "-m", f"AUTOMATED: {changedString}"])
+        subprocess.call(["git", "push"])
 
-    print("===========================================================================")
+    print(f"{bcolors.LINE}==========================================================================={bcolors.ENDC}")
 
 if __name__ == "__main__":
-    # Provide appropriate values for overrideAltered and overrideChangedMessage
-    overrideAltered = False  # Provide the appropriate value
-    overrideChangedMessage = False  # Provide the appropriate value
-    upload(overrideAltered, overrideChangedMessage)
+    upload()
     print("Press ENTER to close")
     input()
