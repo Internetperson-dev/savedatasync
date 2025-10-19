@@ -1,20 +1,4 @@
-Super Smash Bros. Ultimate - Switch
-/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/01006A800016E000
-
-Super Mario 3D World + Bowser's Fury - Switch
-/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010028600EBDA000
-
-Super Mario Bros. Wonder - Switch
-/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010015100B514000
-
-Persona 4 Golden - Switch
-/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010062B01525C000
-
-Legend of Zelda: Tears of the Kingdom - Switch
-/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100F2C0115B6000
-
-We Love Katamari REROLL+ Royal Reverie - Switch
-/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100E71018D1A000
+Switch /mnt/nvme/home/ram/Games/Switch/nand/system/save/
 
 RPCS3 - PS3
 /home/ram/.var/app/net.rpcs3.RPCS3/config/rpcs3/dev_hdd0/home/00000001/savedata
@@ -61,3 +45,4 @@ Peggle Deluxe
 
 Peggle Exterme
 /home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3483/pfx/drive_c/ProgramData/Steam/Peggle/userdata/
+
