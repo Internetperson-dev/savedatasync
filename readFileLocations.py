@@ -15,16 +15,20 @@ class Savelocation:
     def addLocation(self, location):
         self.filePaths.append(location)
 
-def calculateFolderHash(folderPath, algorithm='sha256', block_size=65536):
-    """Calculate the hash of all files in a folder using the specified algorithm"""
-    hash_object = hashlib.new(algorithm)
-    for foldername, subfolders, filenames in os.walk(folderPath):
-        for filename in filenames:
-            file_path = os.path.join(foldername, filename)
-            with open(file_path, 'rb') as f:
-                for block in iter(lambda: f.read(block_size), b''):
-                    hash_object.update(block)
-    return hash_object.hexdigest()
+def calculateFolderHash(folder_path):
+    hasher = hashlib.sha256()
+    for root, dirs, files in os.walk(folder_path):
+        for file in files:
+            file_path = os.path.join(root, file)
+            try:
+                with open(file_path, 'rb') as f:
+                    while chunk := f.read(8192):
+                        hasher.update(chunk)
+            except FileNotFoundError:
+                print(f"Skipping missing file: {file_path}")
+            except PermissionError:
+                print(f"Skipping unreadable file: {file_path}")
+    return hasher.hexdigest()
 
 def readLocationsFile():
     """Make a list of Savelocation instances and return it"""

@@ -1,4 +1,5 @@
-Switch /mnt/nvme/home/ram/Games/Switch/nand/system/save/
+Switch 
+/mnt/nvme/home/ram/Games/Switch/nand/system/save/
 
 RPCS3 - PS3
 /home/ram/.var/app/net.rpcs3.RPCS3/config/rpcs3/dev_hdd0/home/00000001/savedata
