@@ -1,2 +1,0 @@
-# Switch
-# /mnt/nvme/home/ram/Games/Switch/nand/system/save/
