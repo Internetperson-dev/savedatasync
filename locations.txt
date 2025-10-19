@@ -4,6 +4,9 @@ Peggle Deluxe
 Peggle Extreme
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3483/pfx/drive_c/ProgramData/Steam/PeggleExtreme/userdata/
 
+Unreal Gold
+/mnt/nvme/home/ram/Games/Heroic/Epic/Unreal_Gold/UnrealGold/Save
+
 Unreal Tournament
 /home/ram/.utpg/System/
 
@@ -21,3 +24,6 @@ Mario Kart 8 Deluxe
 
 Super Mario 3D Land
 /mnt/nvme/home/ram/Games/Switch/_nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010028600EBDA000/
+
+P5X Screenshots
+/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/P5X/client/pc/P5X_Data/ScreenShots/
