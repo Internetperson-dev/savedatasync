@@ -1,4 +1,4 @@
-Super Smash Bros. Ultimate - Switch - If the bottom of file is **not** empty you will get errors. Thank my symlink daily backup system for getting an older version of this file
+Super Smash Bros. Ultimate - Switch
 /home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/01006A800016E000
 
 Super Mario 3D World + Bowser's Fury - Switch
@@ -55,9 +55,6 @@ RDR2
 
 Sonic Unleashed
 /home/ram/.config/UnleashedRecomp
-
-#Gentoo
-#/home/ram/.config/gentoo
 
 Peggle Deluxe
 /home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3480/pfx/drive_c/ProgramData/Steam/Peggle/userdata/
