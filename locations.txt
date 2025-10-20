@@ -27,3 +27,9 @@ Super Mario 3D Land
 
 P5X Screenshots
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/P5X/client/pc/P5X_Data/ScreenShots/
+
+Postal 2 (Linux)
+~/.var/app/com.valvesoftware.Steam/.lgp/postal2
+
+Postal 2 (Windows)
+~/.var/app/com.valvesoftware.Steam/.steam/steam/steamapps/common/POSTAL2Complete/Save/Save2.usa
