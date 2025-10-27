@@ -32,4 +32,4 @@ Postal 2 (Linux)
 /home/ram/.var/app/com.valvesoftware.Steam/.lgp/postal2
 
 Postal 2 (Windows)
-/home/ram/.var/app/com.valvesoftware.Steam/.steam/steam/steamapps/common/POSTAL2Complete/Save/Save2.usa
+/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/POSTAL2Complete/Save/
