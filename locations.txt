@@ -5,22 +5,19 @@ Peggle Extreme
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3483/pfx/drive_c/ProgramData/Steam/PeggleExtreme/userdata/
 
 Unreal Gold
-/mnt/nvme/home/ram/Games/Heroic/Epic/Unreal_Gold/UnrealGold/Save
+/home/ram/Games/Heroic/Epic/UG/UnrealGold/Save
 
 Unreal Tournament
 /home/ram/.utpg/System/
 
 Super Mario Wonder
-/mnt/nvme/home/ram/Games/Switch/_nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010015100B514000/
+/home/ram/.local/share/yuzu/nand/user/save//user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010015100B514000/
 
 TOTK
-/mnt/nvme/home/ram/Games/Switch/_nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100F2C0115B6000/
+/home/ram.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100F2C0115B6000/
 
 SSBU
-/mnt/nvme/home/ram/Games/Switch/_nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/01006A800016E000/save_data/
-
-Mario Kart 8 Deluxe
-/nt/nvme/home/ram/Games/Switch/_nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100152000022000/
+/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/71BBB968792BA9A7DA51B93761CAEACA/01006A800016E000/save_data/
 
 Super Mario 3D Land
 /mnt/nvme/home/ram/Games/Switch/_nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010028600EBDA000/
@@ -28,8 +25,30 @@ Super Mario 3D Land
 P5X Screenshots
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/P5X/client/pc/P5X_Data/ScreenShots/
 
-Postal 2 (Linux)
-/home/ram/.var/app/com.valvesoftware.Steam/.lgp/postal2
+Doom Eternal
+/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.local/share/Steam/userdata/1232111260/782330/remote/PROFILE/
 
-Postal 2 (Windows)
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/POSTAL2Complete/Save/
+Cronos The New Dawn
+/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3870690/pfx/drive_c/users/steamuser/AppData/Local/Cronos/Saved/SaveGames/
+
+Fallout New Vegas
+/home/ram/Games/Heroic/Prefixes/default/Fallout New Vegas/drive_c/users/steamuser/Documents/My Games/FalloutNV_Epic/Saves
+
+Hollow Knight
+/run/media/root/nvme/home/ram/.var/app/com.valvesoftware.Steam/.config/unity3d/Team Cherry/Hollow Knight
+
+NieR Automata
+/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/524220/pfx/drive_c/users/steamuser/My Documents/My Games/NieR_Automata
+
+Project Borealis Prologue
+/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/2215490/pfx/drive_c/users/steamuser/AppData/Local/ProjectBorealis/Saved/SaveGames//
+
+RDR2
+/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/1174180/pfx/drive_c/users/Public/Documents/
+
+Sonic Racing CrossWorlds Demo
+/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3601140/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/SonicRacingCrossWorldsDemo/steam/
+
+spaghetti
+/mnt/nvme/home/ram/Games/N64/spaghetti/default.sav
+
