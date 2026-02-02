@@ -57,3 +57,8 @@ openjazz
 /home/ram/Games/Heroic/Epic/Jazz-JackRabbit/Openjazz/OJ-20240919/DOSBOX/SAVE.1
 /home/ram/Games/Heroic/Epic/Jazz-JackRabbit/Openjazz/OJ-20240919/DOSBOX/SAVE.2
 
+MGSV - Recreation of offline post-Chapter 1 save ~ Mission 32 
+/home/ram/Downloads/saverecreation/mgsv/MGSV_SaveTranslator/311340/remote/TPP_GAME_DATA
+
+TF2C Replays
+/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/Team Fortress 2 Classified/tf2classified/demos/
