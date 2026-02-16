@@ -57,8 +57,81 @@ openjazz
 /home/ram/Games/Heroic/Epic/Jazz-JackRabbit/Openjazz/OJ-20240919/DOSBOX/SAVE.1
 /home/ram/Games/Heroic/Epic/Jazz-JackRabbit/Openjazz/OJ-20240919/DOSBOX/SAVE.2
 
-MGSV - Recreation of offline post-Chapter 1 save ~ Mission 32 
+MGSV - Recreation of offline post-Chapter 1 save ~ Mission 32
 /home/ram/Downloads/saverecreation/mgsv/MGSV_SaveTranslator/311340/remote/TPP_GAME_DATA
 
 TF2C Replays
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/Team Fortress 2 Classified/tf2classified/demos/
+
+Doom 1
+/home/ram/.local/share/games/uzdoom/savegames/doom.id.doom1.unity/auto01.zds
+
+Doom 2
+/home/ram/.local/share/games/uzdoom/savegames/doom.id.doom2.commercial/
+
+Infinity Blade
+/home/ram/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/2560874881/pfx/drive_c/users/steamuser/Documents/My Games/Infinity Blade/SwordGame
+
+PSP Sync
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/SLPS01556
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULJM060810000
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULJM060810001
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULJM060810002
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULJM06081SYSI
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES015570000
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES015570001
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULUS104320000
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULUS10432CNTI
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULUS10432SYSI
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES00502S92F0
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES00645001
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES01406DATA00
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/SLUS01158
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES01372DLCTEX
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES01372DLCVOICE
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES01372DLC
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES01372DLCBGM
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/SCPS10039
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES00756000
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/UCJS10001
+
+PSP Sync 2
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES00125SAVE000
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/SCUS94426
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/SCES00061
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/NPUZ00241DATA
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES01526BBCS2
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES00339000
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES01174
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES00897profile
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES01347LA
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES00643COD0000
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/NPJH50333USER00
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULJM05681MAIN00
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/NPJH50475LIST00
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/SCUS94900
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/UCES00002000
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES005450000
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES00151S0
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES01003001
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES01372001
+
+PSP Sync 3
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES01347L0
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES01384DATA00
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES01384PROFILE00
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES00756001
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/SLUS00594
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES00869SILENTHILL000
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES01523DATA00
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES015570002
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES01557SYSI
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES01523DATA01
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES009750000
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES00479USER%200
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ULES00394GFUSER00
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ARK_01234
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/NPEG00038DATA00
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/SCUS94228
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/SLUS00606
+/home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ARK_01234/SETTINGS.TXT

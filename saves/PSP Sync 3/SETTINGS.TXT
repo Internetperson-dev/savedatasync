@@ -1,0 +1,20 @@
+always, usbcharge, on
+always, overclock, on
+always, wpa2, on
+always, launcher, off
+always, highmem, off
+always, mscache, on
+always, infernocache:lru, on
+always, disablepause, off
+always, oldplugin, on
+always, hibblock, on
+always, skiplogos, on
+always, hidepics, off
+always, hidemac, on
+always, hidedlc, off
+always, noled, off
+always, noumd, on
+always, noanalog, off
+always, qaflags, on
+# Luxor doesn't like Inferno Cache
+ULUS10201, infernocache, off
