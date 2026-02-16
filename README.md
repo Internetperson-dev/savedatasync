@@ -8,16 +8,28 @@ Sync various save data across emulators because hard drive died in 2023 and I sh
 
 This process uses git (with github to host) to sync save files from (in my case) various emulators across multiple devices. This is done by writing app names and file paths to `locations.txt`, running `upload saves to git.py` to update your save data, and then running `download saves from git.py`. Dates and file hashes are checked to determine when to update locally stored save data. Backups are created as a precautionary measure to prevent data loss.
 
-The format for `locations.txt` is as follows:
+The format for `locations.txt` is as follows for Windows file systems:
 
 ```
 vita3k P4G
 C:\Users\User\AppData\Roaming\Vita3K\Vita3K\ux0\user\00\savedata\PCSB00245
 
-minecraft test
+Minecraft Test
 C:\Apps\MultiMC\instances\1.20.2 Optimised Mods\.minecraft\saves
 C:\Games\MultiMC\instances\1.20.2 Optimised Mods\.minecraft\saves
 ```
+
+
+For Linux file systems:
+
+```
+Vita3k Persona 4 Golden
+/home/user/.config/Vita3K/Vita3K/ux0/user/00/savedata/PCSB00245
+
+Minecraft Test
+/home/user/Apps/MultiMC/instances/1.20.2 Optimised Mods/.minecraft/saves
+```
+
 Multiple lines can be used for file paths, as each one will be checked through.
 
 >
