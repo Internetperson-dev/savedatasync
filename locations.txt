@@ -135,3 +135,12 @@ PSP Sync 3
 /home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/SCUS94228
 /home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/SLUS00606
 /home/ram/.var/app/org.ppsspp.PPSSPP/config/ppsspp/PSP/SAVEDATA/ARK_01234/SETTINGS.TXT
+
+DS
+/mnt/nvme/home/ram/Backups/saves/ds
+
+3DS
+/mnt/nvme/home/ram/Backups/saves/3ds/saves
+
+Quake - OBJ3
+/mnt/nvme/home/ram/ironwail-0.8.1-linux-x64/qbj3/autosave/
