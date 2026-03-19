@@ -144,3 +144,6 @@ DS
 
 Quake - OBJ3
 /mnt/nvme/home/ram/ironwail-0.8.1-linux-x64/qbj3/autosave/
+
+2022 PC Games
+/home/ram/Documents/savedatasync/saves/2022-pc-games

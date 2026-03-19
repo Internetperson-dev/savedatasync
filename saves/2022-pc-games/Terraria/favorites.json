@@ -1,0 +1,17 @@
+{
+  "World": {
+    "Nasty_Outskirts.wld": false,
+    "The_Weary_Quarantine.wld": false,
+    "Loot_Life.wld": false,
+    "MOREloot.wld": false,
+    "EvenMOREloot.wld": false,
+    "imperial.wld": false,
+    "sword.wld": false,
+    "Get_the_world.wld": false,
+    "Wings.wld": false,
+    "Single_player.wld": false
+  },
+  "Player": {
+    "RamzyChad.plr": true
+  }
+}
