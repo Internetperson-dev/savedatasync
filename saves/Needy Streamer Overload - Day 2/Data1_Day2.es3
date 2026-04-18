@@ -1,0 +1,699 @@
+{
+	"IS500MIL" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"IS300MIL" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"IS150MIL" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"ISOPENGINGA" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"LOVEDIARY" : {
+		"__type" : "System.Int32",
+		"value" : 0
+	},
+	"KYUUSICOUNT" : {
+		"__type" : "System.Int32",
+		"value" : 0
+	},
+	"ISSHUROKUED" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"BEFOREWRISTCUT" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"ISHAKKYO" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"ISWRISTCUT" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"WISHLIST" : {
+		"__type" : "System.Int32",
+		"value" : 0
+	},
+	"ISGEDATSU" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"ISHORROR" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"ISHAPPAOK" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"FIRSTDATE" : {
+		"__type" : "ngov3.CmdType,Assembly-CSharp",
+		"value" : 129
+	},
+	"TRAUMA" : {
+		"__type" : "NGO.JineType,Assembly-CSharp",
+		"value" : 9999
+	},
+	"ISHEARTRAUMA" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"ISJUNCHO" : {
+		"__type" : "System.Boolean",
+		"value" : false
+	},
+	"USEDNETAS" : {
+		"__type" : "System.Collections.Generic.List`1[[ngov3.AlphaLevel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			
+		]
+	},
+	"HAVINGNETAS" : {
+		"__type" : "System.Collections.Generic.List`1[[ngov3.AlphaLevel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"alphaType" : 0,
+				"level" : 1
+			}
+		]
+	},
+	"STATUS" : {
+		"__type" : "System.Collections.Generic.List`1[[ngov3.Status, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"statusType" : 0,
+				"currentValue" : {
+					"value" : 20
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 100
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 2,
+				"currentValue" : {
+					"value" : 1001
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 9999999
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 8,
+				"currentValue" : {
+					"value" : 100
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 500
+				},
+				"minValue" : 100,
+				"dispAsPercent" : true
+			},{
+				"statusType" : 3,
+				"currentValue" : {
+					"value" : 14
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 100
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 4,
+				"currentValue" : {
+					"value" : 40
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 100
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 5,
+				"currentValue" : {
+					"value" : 15
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 100
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 9,
+				"currentValue" : {
+					"value" : 0
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 60
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 10,
+				"currentValue" : {
+					"value" : 0
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 60
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 12,
+				"currentValue" : {
+					"value" : 1
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 30
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 13,
+				"currentValue" : {
+					"value" : 0
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 2
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 14,
+				"currentValue" : {
+					"value" : 0
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 60
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 15,
+				"currentValue" : {
+					"value" : 0
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 60
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 16,
+				"currentValue" : {
+					"value" : 0
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 90
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 11,
+				"currentValue" : {
+					"value" : 0
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 30
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 18,
+				"currentValue" : {
+					"value" : 0
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 100
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 6,
+				"currentValue" : {
+					"value" : 2
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 30
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 7,
+				"currentValue" : {
+					"value" : 0
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 3
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			},{
+				"statusType" : 20,
+				"currentValue" : {
+					"value" : 1
+				},
+				"todaysDelta" : {
+					"value" : 0
+				},
+				"delta" : {
+					"value" : 0
+				},
+				"maxValue" : {
+					"value" : 5
+				},
+				"minValue" : 0,
+				"dispAsPercent" : false
+			}
+		]
+	},
+	"PSYCHECOUNT" : {
+		"__type" : "System.Int32",
+		"value" : 0
+	},
+	"MIDOKUCOUNT" : {
+		"__type" : "System.Int32",
+		"value" : 0
+	},
+	"LOOPCOUNT" : {
+		"__type" : "System.Int32",
+		"value" : 1
+	},
+	"DAYACTIONHISTORY" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			
+		]
+	},
+	"EVENTHISTORY" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			
+		]
+	},
+	"POKETTERHISTORY" : {
+		"__type" : "System.Collections.Generic.List`1[[ngov3.TweetData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"Type" : 335,
+				"day" : 1,
+				"honbun" : "",
+				"IsOmote" : true,
+				"FavNumber" : 871,
+				"RtNumber" : 126,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 129
+			},{
+				"Type" : 335,
+				"day" : 1,
+				"honbun" : "",
+				"IsOmote" : false,
+				"FavNumber" : 0,
+				"RtNumber" : 0,
+				"kusoReps" : [
+					
+				],
+				"kusoRepString" : [
+					
+				],
+				"cmdType" : 129
+			}
+		]
+	},
+	"JINEHISTORY" : {
+		"__type" : "System.Collections.Generic.List`1[[ngov3.JineData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : [
+			{
+				"user" : 3,
+				"id" : 9999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 2,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 970,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 99,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 9999,
+				"responseType" : 0,
+				"stampType" : 1,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 971,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 972,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 973,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 974,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 975,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 976,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 977,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 978,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 980,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 981,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 982,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 983,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 984,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 985,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 986,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 987,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 3,
+				"id" : 9999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : -1,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 988,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 989,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 990,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 991,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 992,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 993,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 994,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 1,
+				"id" : 995,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 997,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 1000,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 1001,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 1002,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 0,
+				"id" : 1003,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 0,
+				"freeMessage" : ""
+			},{
+				"user" : 2,
+				"id" : 9999,
+				"responseType" : 1,
+				"stampType" : 8,
+				"day" : 2,
+				"freeMessage" : ""
+			}
+		]
+	}
+}

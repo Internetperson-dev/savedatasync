@@ -148,36 +148,94 @@ Quake - OBJ3
 Yakuza Kiwami 2
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3717340/pfx/drive_c/users/steamuser/AppData/Roaming/Sega
 
-Needy Streamer Overload - Needy Streamer Overdose
+Needy Streamer Overload - Day 1
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day1.es3
+
+Needy Streamer Overload - Day 2
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day2.es3
+
+Needy Streamer Overload - Day 3
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day3.es3
+
+Needy Streamer Overload - Day 4
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day4.es3
+
+Needy Streamer Overload - Day 5
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day5.es3
+
+Needy Streamer Overload - Day 6
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day6.es3
+
+Needy Streamer Overload - Day 7
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day7.es3
+
+Needy Streamer Overload - Day 8
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day8.es3
+
+Needy Streamer Overload - Day 9
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day9.es3
+
+Needy Streamer Overload - Day 10
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day10.es3
+
+Needy Streamer Overload - Day 11
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day11.es3
+
+Needy Streamer Overload - Day 12
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day12.es3
+
+Needy Streamer Overload - Day 13
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day13.es3
+
+Needy Streamer Overload - Day 14
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day14.es3
+
+Needy Streamer Overload - Day 15
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day15.es3
+
+Needy Streamer Overload - Day 16
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day16.es3
+
+Needy Streamer Overload - Day 17
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day17.es3
+
+Needy Streamer Overload - Day 18
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day18.es3
+
+Needy Streamer Overload - Day 19
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day19.es3
+
+Needy Streamer Overload - Day 20
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day20.es3
+
+Needy Streamer Overload - Day 21
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day21.es3
+
+Needy Streamer Overload - Day 22
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day22.es3
+
+Needy Streamer Overload - Day 23
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day23.es3
+
+Needy Streamer Overload - Day 24
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day24.es3
+
+Needy Streamer Overload - Day 25
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day25.es3
+
+Needy Streamer Overload - Day 26
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day26.es3
+
+Needy Streamer Overload - Day 27
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day27.es3
+
+Needy Streamer Overload - Day 28
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day28.es3
+
+Needy Streamer Overload - Day 29
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day29.es3
+
+Needy Streamer Overload - Day 30
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day30.es3
 
 Grand Theft Auto V Enhanced
