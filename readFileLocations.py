@@ -73,9 +73,6 @@ def readLocationsFile():
     return saveLocations
 
 
-_hash_to_backup_path = {}
-
-
 def remove_folder(path):
     try:
         shutil.rmtree(path, True)
@@ -206,26 +203,11 @@ def saveData(saveLocations, output=True):
                     )
                 remove_folder(backupPath)
 
-                existing_backup = _hash_to_backup_path.get(pathHash)
-                if existing_backup:
-                    if output:
-                        print(
-                            f"Backup is duplicate of {existing_backup}, creating symlink"
-                        )
+                if os.path.isfile(path):
                     os.makedirs(backupPath)
-                    os.rmdir(backupPath)
-                    os.symlink(
-                        os.path.relpath(existing_backup, os.path.dirname(backupPath)),
-                        backupPath,
-                        target_is_directory=True,
-                    )
+                    shutil.copy2(path, backupPath)
                 else:
-                    _hash_to_backup_path[pathHash] = os.path.abspath(backupPath)
-                    if os.path.isfile(path):
-                        os.makedirs(backupPath)
-                        shutil.copy2(path, backupPath)
-                    else:
-                        shutil.copytree(path, backupPath, dirs_exist_ok=True)
+                    shutil.copytree(path, backupPath, dirs_exist_ok=True)
                 with open(f"{backupPath}.txt", "w") as f:
                     f.writelines(newinfo)
             else:
