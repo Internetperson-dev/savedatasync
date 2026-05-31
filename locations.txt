@@ -238,8 +238,12 @@ Needy Streamer Overload - Day 30
 Grand Theft Auto V Enhanced
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3240220/pfx/drive_c/users/steamuser/Documents/Rockstar Games/GTAV Enhanced/Profiles
 
+Grand Theft Auto - San Andreas
+/mnt/hdd/Games/PC/GTA San Andreas/GTA San Andreas/userfile
+
 Persona 3 Reload
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA
 
 Persona 5 Strikers
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/1382330-/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/Steam/P5S
+
