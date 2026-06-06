@@ -18,22 +18,44 @@ class bcolors:
     UNDERLINE = "\033[4m"
 
 
+def normalisedSize(bytes, units=[" bytes", "KB", "MB", "GB", "TB", "PB", "EB"]):
+    if bytes < 1024 or len(units) == 1:
+        return f"{round(bytes, 2):.2f}{units[0]}"
+    else:
+        return normalisedSize(bytes / 1024, units[1:])
+
+
+def downloadRepoFile(url):
+    print(f"{bcolors.WARNING}Downloading files from github...{bcolors.ENDC}")
+    urllib.request.urlretrieve(url, "main.zip")
+    fileSize = os.path.getsize("main.zip")
+    print(f"{bcolors.WARNING}Size: {normalisedSize(fileSize)}{bcolors.ENDC}")
+    shutil.unpack_archive("main.zip", "temp", "zip")
+    print(f"{bcolors.WARNING}Cleaning up...{bcolors.ENDC}")
+    os.remove("main.zip")
+
+
+def git_has_remote_changes():
+    branch = subprocess.run(
+        ["git", "rev-parse", "--abbrev-ref", "HEAD"],
+        capture_output=True,
+        text=True,
+        check=True,
+    ).stdout.strip()
+
+    subprocess.run(["git", "fetch", "origin", branch], capture_output=True, check=True)
+
+    output = subprocess.run(
+        ["git", "log", f"HEAD..origin/{branch}", "--oneline"],
+        capture_output=True,
+        text=True,
+        check=True,
+    ).stdout.strip()
+
+    return bool(output)
+
+
 def download():
-    def normalisedSize(bytes, units=[" bytes", "KB", "MB", "GB", "TB", "PB", "EB"]):
-        if bytes < 1024 or len(units) == 1:
-            return f"{round(bytes, 2):.2f}{units[0]}"
-        else:
-            return normalisedSize(bytes / 1024, units[1:])
-
-    def downloadRepoFile(url):
-        print(f"{bcolors.WARNING}Downloading files from github...{bcolors.ENDC}")
-        urllib.request.urlretrieve(url, "main.zip")
-        fileSize = os.path.getsize("main.zip")
-        print(f"{bcolors.WARNING}Size: {normalisedSize(fileSize)}{bcolors.ENDC}")
-        shutil.unpack_archive("main.zip", "temp", "zip")
-        print(f"{bcolors.WARNING}Cleaning up...{bcolors.ENDC}")
-        os.remove("main.zip")
-
     filepath = ""
     with open("gitFilePath.txt", "r") as f:
         filepath = f.readline()
@@ -41,6 +63,15 @@ def download():
     print(
         f"{bcolors.LINE}==========================================================================={bcolors.ENDC}"
     )
+
+    if not git_has_remote_changes():
+        print(
+            f"{bcolors.OKBLUE}Remote has no new changes, skipping download{bcolors.ENDC}"
+        )
+        print(
+            f"{bcolors.LINE}==========================================================================={bcolors.ENDC}"
+        )
+        return
 
     downloadRepoFile(filepath)
     shutil.rmtree("tocheck", True)
@@ -61,7 +92,6 @@ def download():
     )
 
     for foldername, subfolders, filenames in os.walk("tocheck"):
-        ### unzip/extract archives
         for file in filenames:
             if file.lower().endswith(".zip"):
                 shutil.unpack_archive(
@@ -140,9 +170,9 @@ def download():
                                         os.path.join(
                                             "saves",
                                             folder,
-                                            os.listdir(
-                                                os.path.join("saves", folder)[0]
-                                            ),
+                                            os.listdir(os.path.join("saves", folder))[
+                                                0
+                                            ],
                                         ),
                                         path,
                                     )
@@ -156,27 +186,6 @@ def download():
             )
 
         shutil.rmtree("tocheck")
-
-    if updatedApps:
-        if len(updatedApps) > 1:
-            updatedString = f"{', '.join(updatedApps[:-1])}, and {updatedApps[-1]}"
-            print(
-                f"{bcolors.OKBLUE}",
-                updatedString,
-                f"now have the newest save data{bcolors.ENDC}",
-            )
-        else:
-            updatedString = updatedApps[0]
-            print(
-                f"{bcolors.OKBLUE}",
-                updatedString,
-                f"now has the newest save data{bcolors.ENDC}",
-            )
-    else:
-        print(f"{bcolors.OKBLUE}Nothing has been overwritten{bcolors.ENDC}")
-    print(
-        f"{bcolors.LINE}==========================================================================={bcolors.ENDC}"
-    )
 
 
 if __name__ == "__main__":
