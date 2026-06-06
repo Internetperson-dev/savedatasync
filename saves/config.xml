@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XmlSettingFile>
+  <DisplaySetting>0</DisplaySetting>
+  <LanguageID>0</LanguageID>
+  <Monitor>1</Monitor>
+  <Resolution>8</Resolution>
+  <RenderScale>20</RenderScale>
+  <FPS>0</FPS>
+  <VSync>0</VSync>
+  <Shadow>0</Shadow>
+  <Texture>0</Texture>
+  <AA>1</AA>
+  <AO>0</AO>
+  <Bloom>0</Bloom>
+  <Blur>0</Blur>
+  <SSR>0</SSR>
+  <DOF>0</DOF>
+  <PadDecideId>0</PadDecideId>
+  <Movie>0</Movie>
+  <Sound>1</Sound>
+  <SE>10</SE>
+  <BGM>10</BGM>
+  <Voice>10</Voice>
+  <MovieVolume>10</MovieVolume>
+  <MasterVolume>10</MasterVolume>
+  <VoiceLang>0</VoiceLang>
+  <StickS>2</StickS>
+  <MouseS>2</MouseS>
+</XmlSettingFile>
