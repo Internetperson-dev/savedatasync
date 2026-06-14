@@ -241,9 +241,17 @@ Grand Theft Auto V Enhanced
 Grand Theft Auto - San Andreas
 /mnt/hdd/Games/PC/GTA San Andreas/GTA San Andreas/userfiles
 
+Death Stranding Director's Cut
+/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/1850570/pfx/drive_c/users/steamuser/AppData/Local/KojimaProductions/
+
 Persona 3 Reload
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA
+
+Persona 4 Golden
+/home/ram/.var/app/com.valvesoftware.Steam/.steam/steam/userdata/1232111260/1113000/remote/data0001.bin
 
 Persona 5 Strikers
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/1382330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/Steam/P5S
 
+Metaphor ReFantazio - Prologue
+/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561199192376988/
