@@ -255,3 +255,6 @@ Persona 5 Strikers
 
 Metaphor ReFantazio - Prologue
 /mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561199192376988/
+
+Persona 5 Royal - Steam
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/1687950/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/P5R
