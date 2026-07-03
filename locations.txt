@@ -1,8 +1,8 @@
 Peggle Deluxe
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3480/pfx/drive_c/ProgramData/Steam/Peggle/userdata/
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3480/pfx/drive_c/ProgramData/Steam/Peggle/userdata/
 
 Peggle Extreme
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3483/pfx/drive_c/ProgramData/Steam/PeggleExtreme/userdata/
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3483/pfx/drive_c/ProgramData/Steam/PeggleExtreme/userdata/
 
 Unreal Gold
 /home/ram/Games/Heroic/Epic/UG/UnrealGold/Save
@@ -20,16 +20,16 @@ SSBU
 /home/ram/.local/share/yuzu/nand/user/save/0000000000000000/71BBB968792BA9A7DA51B93761CAEACA/01006A800016E000/save_data/
 
 Super Mario 3D Land
-/mnt/nvme/home/ram/Games/Switch/_nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010028600EBDA000/
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/Games/Switch/_nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010028600EBDA000/
 
 P5X Screenshots
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/P5X/client/pc/P5X_Data/ScreenShots/
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/P5X/client/pc/P5X_Data/ScreenShots/
 
 Doom Eternal
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.local/share/Steam/userdata/1232111260/782330/remote/PROFILE/
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.local/share/Steam/userdata/1232111260/782330/remote/PROFILE/
 
 Cronos The New Dawn
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3870690/pfx/drive_c/users/steamuser/AppData/Local/Cronos/Saved/SaveGames/
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3870690/pfx/drive_c/users/steamuser/AppData/Local/Cronos/Saved/SaveGames/
 
 Fallout New Vegas
 /home/ram/Games/Heroic/Prefixes/default/Fallout New Vegas/drive_c/users/steamuser/Documents/My Games/FalloutNV_Epic/Saves
@@ -38,19 +38,19 @@ Hollow Knight
 /run/media/root/nvme/home/ram/.var/app/com.valvesoftware.Steam/.config/unity3d/Team Cherry/Hollow Knight
 
 NieR Automata
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/524220/pfx/drive_c/users/steamuser/My Documents/My Games/NieR_Automata
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/524220/pfx/drive_c/users/steamuser/My Documents/My Games/NieR_Automata
 
 Project Borealis Prologue
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/2215490/pfx/drive_c/users/steamuser/AppData/Local/ProjectBorealis/Saved/SaveGames//
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/2215490/pfx/drive_c/users/steamuser/AppData/Local/ProjectBorealis/Saved/SaveGames//
 
 RDR2
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/1174180/pfx/drive_c/users/Public/Documents/
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/1174180/pfx/drive_c/users/Public/Documents/
 
 Sonic Racing CrossWorlds Demo
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3601140/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/SonicRacingCrossWorldsDemo/steam/
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3601140/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/SonicRacingCrossWorldsDemo/steam/
 
 spaghetti
-/mnt/nvme/home/ram/Games/N64/spaghetti/default.sav
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/Games/N64/spaghetti/default.sav
 
 openjazz
 /home/ram/Games/Heroic/Epic/Jazz-JackRabbit/Openjazz/OJ-20240919/DOSBOX/SAVE.0
@@ -61,7 +61,7 @@ MGSV - Recreation of offline post-Chapter 1 save ~ Mission 32
 /home/ram/Downloads/saverecreation/mgsv/MGSV_SaveTranslator/311340/remote/TPP_GAME_DATA
 
 TF2C Replays
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/Team Fortress 2 Classified/tf2classified/demos/
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/Team Fortress 2 Classified/tf2classified/demos/
 
 Doom 1
 /home/ram/.local/share/games/uzdoom/savegames/doom.id.doom1.unity/auto01.zds
@@ -134,127 +134,127 @@ PSP Sync
 /run/media/ram/disk/PSP/SAVEDATA/ULUS10432SYSI
 
 DS
-/mnt/nvme/home/ram/Backups/saves/ds
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/Backups/saves/ds
 
 3DS
-/mnt/nvme/home/ram/Backups/saves/3ds/saves
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/Backups/saves/3ds/saves
 
 Quake - OBJ3
-/mnt/nvme/home/ram/ironwail-0.8.1-linux-x64/qbj3/autosave/
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/ironwail-0.8.1-linux-x64/qbj3/autosave/
 
 Yakuza Kiwami 2
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3717340/pfx/drive_c/users/steamuser/AppData/Roaming/Sega
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3717340/pfx/drive_c/users/steamuser/AppData/Roaming/Sega
 
 Needy Streamer Overload - Day 1
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day1.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day1.es3
 
 Needy Streamer Overload - Day 2
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day2.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day2.es3
 
 Needy Streamer Overload - Day 3
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day3.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day3.es3
 
 Needy Streamer Overload - Day 4
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day4.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day4.es3
 
 Needy Streamer Overload - Day 5
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day5.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day5.es3
 
 Needy Streamer Overload - Day 6
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day6.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day6.es3
 
 Needy Streamer Overload - Day 7
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day7.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day7.es3
 
 Needy Streamer Overload - Day 8
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day8.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day8.es3
 
 Needy Streamer Overload - Day 9
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day9.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day9.es3
 
 Needy Streamer Overload - Day 10
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day10.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day10.es3
 
 Needy Streamer Overload - Day 11
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day11.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day11.es3
 
 Needy Streamer Overload - Day 12
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day12.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day12.es3
 
 Needy Streamer Overload - Day 13
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day13.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day13.es3
 
 Needy Streamer Overload - Day 14
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day14.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day14.es3
 
 Needy Streamer Overload - Day 15
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day15.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day15.es3
 
 Needy Streamer Overload - Day 16
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day16.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day16.es3
 
 Needy Streamer Overload - Day 17
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day17.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day17.es3
 
 Needy Streamer Overload - Day 18
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day18.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day18.es3
 
 Needy Streamer Overload - Day 19
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day19.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day19.es3
 
 Needy Streamer Overload - Day 20
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day20.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day20.es3
 
 Needy Streamer Overload - Day 21
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day21.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day21.es3
 
 Needy Streamer Overload - Day 22
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day22.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day22.es3
 
 Needy Streamer Overload - Day 23
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day23.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day23.es3
 
 Needy Streamer Overload - Day 24
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day24.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day24.es3
 
 Needy Streamer Overload - Day 25
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day25.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day25.es3
 
 Needy Streamer Overload - Day 26
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day26.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day26.es3
 
 Needy Streamer Overload - Day 27
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day27.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day27.es3
 
 Needy Streamer Overload - Day 28
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day28.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day28.es3
 
 Needy Streamer Overload - Day 29
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day29.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day29.es3
 
 Needy Streamer Overload - Day 30
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day30.es3
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/NEEDY GIRL OVERDOSE/Windose_Data/Data1_Day30.es3
 
 Grand Theft Auto V Enhanced
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3240220/pfx/drive_c/users/steamuser/Documents/Rockstar Games/GTAV Enhanced/Profiles
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3240220/pfx/drive_c/users/steamuser/Documents/Rockstar Games/GTAV Enhanced/Profiles
 
 Grand Theft Auto - San Andreas
 /mnt/hdd/Games/PC/GTA San Andreas/GTA San Andreas/userfiles
 
 Death Stranding Director's Cut
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/1850570/pfx/drive_c/users/steamuser/AppData/Local/KojimaProductions/
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/1850570/pfx/drive_c/users/steamuser/AppData/Local/KojimaProductions/
 
 Persona 3 Reload
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA
 
 Persona 4 Golden
 /home/ram/.var/app/com.valvesoftware.Steam/.steam/steam/userdata/1232111260/1113000/remote/data0001.bin
 
 Persona 5 Strikers
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/1382330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/Steam/P5S
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/1382330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/Steam/P5S
 
 Metaphor ReFantazio - Prologue
-/mnt/nvme/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561199192376988/
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561199192376988/
 
 Persona 5 Royal - Steam
 /run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/1687950/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/P5R
