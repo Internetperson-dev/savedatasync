@@ -51,7 +51,6 @@ openjazz
 MGSVGZ
 /home/ram/.local/share/Steam/userdata/1232111260/311340
 
-
 MGSV - Recreation of offline post-Chapter 1 save ~ Mission 32
 /home/ram/Downloads/saverecreation/mgsv/MGSV_SaveTranslator/311340/remote/TPP_GAME_DATA
 
@@ -176,7 +175,7 @@ Persona 3 Reload
 /run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/2161700/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA
 
 Persona 4 Golden
-/home/livecd/.var/app/com.valvesoftware.Steam/.steam/steam/userdata/1232111260/1113000/remote/data0001.bin
+/home/ram/.steam/steam/userdata/1232111260/1113000/remote
 
 Persona 5 Strikers
 /run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/1382330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/Steam/P5S
