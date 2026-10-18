@@ -55,19 +55,18 @@ def readLocationsFile():
 
     saveLocations = []
     currentSaveLocation = None
-    blank = True
     for line in lines:
         linestripped = line.strip()
-        if blank:
+        if not linestripped:
+            if currentSaveLocation is not None:
+                saveLocations.append(currentSaveLocation)
+                currentSaveLocation = None
+        elif currentSaveLocation is None:
             currentSaveLocation = Savelocation(linestripped)
-            blank = False
-        elif len(linestripped) <= 1:
-            blank = True
-            saveLocations.append(currentSaveLocation)
         else:
             currentSaveLocation.addLocation(linestripped)
 
-    if not blank:
+    if currentSaveLocation is not None:
         saveLocations.append(currentSaveLocation)
 
     return saveLocations

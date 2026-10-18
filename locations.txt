@@ -4,23 +4,14 @@ Peggle Deluxe
 Peggle Extreme
 /run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/3483/pfx/drive_c/ProgramData/Steam/PeggleExtreme/userdata/
 
+Peggle Nights
+/home/ram/.steam/steam/steamapps/compatdata/3540/pfx/drive_c/ProgramData/Steam/PeggleNights
+
 Unreal Gold
 /home/ram/Games/Heroic/Epic/UG/UnrealGold/Save
 
 Unreal Tournament
 /home/ram/.utpg/System/
-
-Super Mario Wonder
-/home/ram/.local/share/yuzu/nand/user/save//user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010015100B514000/
-
-TOTK
-/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100F2C0115B6000/
-
-SSBU
-/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/71BBB968792BA9A7DA51B93761CAEACA/01006A800016E000/save_data/
-
-Super Mario 3D Land
-/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/Games/Switch/_nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010028600EBDA000/
 
 P5X Screenshots
 /run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/common/P5X/client/pc/P5X_Data/ScreenShots/
@@ -57,6 +48,10 @@ openjazz
 /home/ram/Games/Heroic/Epic/Jazz-JackRabbit/Openjazz/OJ-20240919/DOSBOX/SAVE.1
 /home/ram/Games/Heroic/Epic/Jazz-JackRabbit/Openjazz/OJ-20240919/DOSBOX/SAVE.2
 
+MGSVGZ
+/home/ram/.local/share/Steam/userdata/1232111260/311340
+
+
 MGSV - Recreation of offline post-Chapter 1 save ~ Mission 32
 /home/ram/Downloads/saverecreation/mgsv/MGSV_SaveTranslator/311340/remote/TPP_GAME_DATA
 
@@ -71,73 +66,6 @@ Doom 2
 
 Infinity Blade
 /home/ram/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/compatdata/2560874881/pfx/drive_c/users/steamuser/Documents/My Games/Infinity Blade/SwordGame
-
-PSP Sync
-/run/media/ram/disk/PSP/SAVEDATA/ARK_01234
-/run/media/ram/disk/PSP/SAVEDATA/NPEG00038DATA00
-/run/media/ram/disk/PSP/SAVEDATA/NPJH50333USER00
-/run/media/ram/disk/PSP/SAVEDATA/NPJH50475LIST00
-/run/media/ram/disk/PSP/SAVEDATA/NPUZ00241DATA
-/run/media/ram/disk/PSP/SAVEDATA/SCES00061
-/run/media/ram/disk/PSP/SAVEDATA/SCPS10039
-/run/media/ram/disk/PSP/SAVEDATA/SCUS94228
-/run/media/ram/disk/PSP/SAVEDATA/SCUS94426
-/run/media/ram/disk/PSP/SAVEDATA/SCUS94900
-/run/media/ram/disk/PSP/SAVEDATA/SLPS01556
-/run/media/ram/disk/PSP/SAVEDATA/SLUS00594
-/run/media/ram/disk/PSP/SAVEDATA/SLUS00606
-/run/media/ram/disk/PSP/SAVEDATA/SLUS01158
-/run/media/ram/disk/PSP/SAVEDATA/UCES00002000
-/run/media/ram/disk/PSP/SAVEDATA/UCJS10001
-/run/media/ram/disk/PSP/SAVEDATA/ULES00125SAVE000
-/run/media/ram/disk/PSP/SAVEDATA/ULES00151S0
-/run/media/ram/disk/PSP/SAVEDATA/ULES00339000
-/run/media/ram/disk/PSP/SAVEDATA/ULES00394GFUSER00
-/run/media/ram/disk/PSP/SAVEDATA/ULES00479USER  0
-/run/media/ram/disk/PSP/SAVEDATA/ULES00502S92F0
-/run/media/ram/disk/PSP/SAVEDATA/ULES005450000
-/run/media/ram/disk/PSP/SAVEDATA/ULES00643COD0000
-/run/media/ram/disk/PSP/SAVEDATA/ULES00645001
-/run/media/ram/disk/PSP/SAVEDATA/ULES00756000
-/run/media/ram/disk/PSP/SAVEDATA/ULES00756001
-/run/media/ram/disk/PSP/SAVEDATA/ULES00869SILENTHILL000
-/run/media/ram/disk/PSP/SAVEDATA/ULES00897profile
-/run/media/ram/disk/PSP/SAVEDATA/ULES009750000
-/run/media/ram/disk/PSP/SAVEDATA/ULES01003001
-/run/media/ram/disk/PSP/SAVEDATA/ULES01174
-/run/media/ram/disk/PSP/SAVEDATA/ULES01347L0
-/run/media/ram/disk/PSP/SAVEDATA/ULES01347LA
-/run/media/ram/disk/PSP/SAVEDATA/ULES01372001
-/run/media/ram/disk/PSP/SAVEDATA/ULES01372DLC
-/run/media/ram/disk/PSP/SAVEDATA/ULES01372DLCTEX
-/run/media/ram/disk/PSP/SAVEDATA/ULES01372DLCVOICE
-/run/media/ram/disk/PSP/SAVEDATA/ULES01384DATA00
-/run/media/ram/disk/PSP/SAVEDATA/ULES01384PROFILE00
-/run/media/ram/disk/PSP/SAVEDATA/ULES01406DATA00
-/run/media/ram/disk/PSP/SAVEDATA/ULES01523DATA00
-/run/media/ram/disk/PSP/SAVEDATA/ULES01523DATA01
-/run/media/ram/disk/PSP/SAVEDATA/ULES01523DATA02
-/run/media/ram/disk/PSP/SAVEDATA/ULES01526BBCS2
-/run/media/ram/disk/PSP/SAVEDATA/ULES015570000
-/run/media/ram/disk/PSP/SAVEDATA/ULES015570001
-/run/media/ram/disk/PSP/SAVEDATA/ULES015570002
-/run/media/ram/disk/PSP/SAVEDATA/ULES01557SYSI
-/run/media/ram/disk/PSP/SAVEDATA/ULJM05681MAIN00
-/run/media/ram/disk/PSP/SAVEDATA/ULJM060810000
-/run/media/ram/disk/PSP/SAVEDATA/ULJM060810001
-/run/media/ram/disk/PSP/SAVEDATA/ULJM060810002
-/run/media/ram/disk/PSP/SAVEDATA/ULJM06081SYSI
-/run/media/ram/disk/PSP/SAVEDATA/ULUS104320000
-/run/media/ram/disk/PSP/SAVEDATA/ULUS104320001
-/run/media/ram/disk/PSP/SAVEDATA/ULUS104320002
-/run/media/ram/disk/PSP/SAVEDATA/ULUS10432CNTI
-/run/media/ram/disk/PSP/SAVEDATA/ULUS10432SYSI
-
-DS
-/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/Backups/saves/ds
-
-3DS
-/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/Backups/saves/3ds/saves
 
 Quake - OBJ3
 /run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/ironwail-0.8.1-linux-x64/qbj3/autosave/
@@ -253,8 +181,93 @@ Persona 4 Golden
 Persona 5 Strikers
 /run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/1382330/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/Steam/P5S
 
-Metaphor ReFantazio - Prologue
-/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/METAPHOR/Steam/76561199192376988/
+Metaphor ReFantazio
+/run/media/ram/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/2679460/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA
 
 Persona 5 Royal - Steam
 /run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/.var/app/com.valvesoftware.Steam/.steam/debian-installation/steamapps/compatdata/1687950/pfx/drive_c/users/steamuser/AppData/Roaming/SEGA/P5R
+
+Epic - Doki Doki Literature Club Plus
+/home/ram/.local/share/com.epicgames.eglv2/compat/compatdata/c5109bdceb3a453bb38c2fdc964ddee8/pfx/drive_c/users/steamuser/AppData/LocalLow/Team Salvato/Doki Doki Literature Club Plus
+
+Epic - Cave Story Plus
+/home/ram/Games/CaveStoryPlus/Profile.dat
+
+Super Mario Wonder
+/home/ram/.local/share/yuzu/nand/user/save//user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010015100B514000/
+
+TOTK
+/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/0100F2C0115B6000/
+
+SSBU
+/home/ram/.local/share/yuzu/nand/user/save/0000000000000000/71BBB968792BA9A7DA51B93761CAEACA/01006A800016E000/save_data/
+
+Super Mario 3D World
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/Games/Switch/_nand/user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010028600EBDA000/
+
+PSP Sync
+/run/media/ram/disk/PSP/SAVEDATA/ARK_01234
+/run/media/ram/disk/PSP/SAVEDATA/NPEG00038DATA00
+/run/media/ram/disk/PSP/SAVEDATA/NPJH50333USER00
+/run/media/ram/disk/PSP/SAVEDATA/NPJH50475LIST00
+/run/media/ram/disk/PSP/SAVEDATA/NPUZ00241DATA
+/run/media/ram/disk/PSP/SAVEDATA/SCES00061
+/run/media/ram/disk/PSP/SAVEDATA/SCPS10039
+/run/media/ram/disk/PSP/SAVEDATA/SCUS94228
+/run/media/ram/disk/PSP/SAVEDATA/SCUS94426
+/run/media/ram/disk/PSP/SAVEDATA/SCUS94900
+/run/media/ram/disk/PSP/SAVEDATA/SLPS01556
+/run/media/ram/disk/PSP/SAVEDATA/SLUS00594
+/run/media/ram/disk/PSP/SAVEDATA/SLUS00606
+/run/media/ram/disk/PSP/SAVEDATA/SLUS01158
+/run/media/ram/disk/PSP/SAVEDATA/UCES00002000
+/run/media/ram/disk/PSP/SAVEDATA/UCJS10001
+/run/media/ram/disk/PSP/SAVEDATA/ULES00125SAVE000
+/run/media/ram/disk/PSP/SAVEDATA/ULES00151S0
+/run/media/ram/disk/PSP/SAVEDATA/ULES00339000
+/run/media/ram/disk/PSP/SAVEDATA/ULES00394GFUSER00
+/run/media/ram/disk/PSP/SAVEDATA/ULES00479USER  0
+/run/media/ram/disk/PSP/SAVEDATA/ULES00502S92F0
+/run/media/ram/disk/PSP/SAVEDATA/ULES005450000
+/run/media/ram/disk/PSP/SAVEDATA/ULES00643COD0000
+/run/media/ram/disk/PSP/SAVEDATA/ULES00645001
+/run/media/ram/disk/PSP/SAVEDATA/ULES00756000
+/run/media/ram/disk/PSP/SAVEDATA/ULES00756001
+/run/media/ram/disk/PSP/SAVEDATA/ULES00869SILENTHILL000
+/run/media/ram/disk/PSP/SAVEDATA/ULES00897profile
+/run/media/ram/disk/PSP/SAVEDATA/ULES009750000
+/run/media/ram/disk/PSP/SAVEDATA/ULES01003001
+/run/media/ram/disk/PSP/SAVEDATA/ULES01174
+/run/media/ram/disk/PSP/SAVEDATA/ULES01347L0
+/run/media/ram/disk/PSP/SAVEDATA/ULES01347LA
+/run/media/ram/disk/PSP/SAVEDATA/ULES01372001
+/run/media/ram/disk/PSP/SAVEDATA/ULES01372DLC
+/run/media/ram/disk/PSP/SAVEDATA/ULES01372DLCTEX
+/run/media/ram/disk/PSP/SAVEDATA/ULES01372DLCVOICE
+/run/media/ram/disk/PSP/SAVEDATA/ULES01384DATA00
+/run/media/ram/disk/PSP/SAVEDATA/ULES01384PROFILE00
+/run/media/ram/disk/PSP/SAVEDATA/ULES01406DATA00
+/run/media/ram/disk/PSP/SAVEDATA/ULES01523DATA00
+/run/media/ram/disk/PSP/SAVEDATA/ULES01523DATA01
+/run/media/ram/disk/PSP/SAVEDATA/ULES01523DATA02
+/run/media/ram/disk/PSP/SAVEDATA/ULES01526BBCS2
+/run/media/ram/disk/PSP/SAVEDATA/ULES015570000
+/run/media/ram/disk/PSP/SAVEDATA/ULES015570001
+/run/media/ram/disk/PSP/SAVEDATA/ULES015570002
+/run/media/ram/disk/PSP/SAVEDATA/ULES01557SYSI
+/run/media/ram/disk/PSP/SAVEDATA/ULJM05681MAIN00
+/run/media/ram/disk/PSP/SAVEDATA/ULJM060810000
+/run/media/ram/disk/PSP/SAVEDATA/ULJM060810001
+/run/media/ram/disk/PSP/SAVEDATA/ULJM060810002
+/run/media/ram/disk/PSP/SAVEDATA/ULJM06081SYSI
+/run/media/ram/disk/PSP/SAVEDATA/ULUS104320000
+/run/media/ram/disk/PSP/SAVEDATA/ULUS104320001
+/run/media/ram/disk/PSP/SAVEDATA/ULUS104320002
+/run/media/ram/disk/PSP/SAVEDATA/ULUS10432CNTI
+/run/media/ram/disk/PSP/SAVEDATA/ULUS10432SYSI
+
+DS
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/Backups/saves/ds
+
+3DS
+/run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/Backups/saves/3ds/saves
