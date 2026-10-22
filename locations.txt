@@ -192,6 +192,12 @@ Epic - Doki Doki Literature Club Plus
 Epic - Cave Story Plus
 /home/ram/Games/CaveStoryPlus/Profile.dat
 
+Epic - Cave Story Plus - doukutsu-rs
+
+/home/ram/Games/CaveStoryPlus/user
+
+
+
 Super Mario Wonder
 /home/ram/.local/share/yuzu/nand/user/save//user/save/0000000000000000/EE1E7AB47EA5636A1277C6BB83521D29/010015100B514000/
 
