@@ -276,3 +276,6 @@ DS
 
 3DS
 /run/media/livecd/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/Backups/saves/3ds/saves
+
+Mario Kart Wii Recompilation (WiiCompiled)
+/run/media/ram/a5e700cb-68e1-4344-bb64-2dd84b3ca1b6/home/ram/Games/Wii/Wiicompiled/linux-native-build/UserData
